@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: 2f474224bde900a44996c88645cff83f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_end
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.004
+    100014: Bone.005
+    100016: Bone.005_end
+    100018: Bone.006
+    100020: Bone.007
+    100022: Bone.008
+    100024: Bone.009
+    100026: Bone.009_end
+    100028: Bone.010
+    100030: Bone.011
+    100032: Bone.012
+    100034: Bone.013
+    100036: Bone.013_end
+    100038: Bone.014
+    100040: Bone.015
+    100042: Bone.016
+    100044: Bone.017
+    100046: Bone.017_end
+    100048: //RootNode
+    100050: Head
+    100052: Helmet
+    100054: Helmet MOd
+    100056: Left Arm
+    100058: Left Hand
+    100060: Left Leg
+    100062: Left Leg001
+    100064: Right Arm
+    100066: Right Hand
+    100068: Torso
+    400000: Armature.001
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_end
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.004
+    400014: Bone.005
+    400016: Bone.005_end
+    400018: Bone.006
+    400020: Bone.007
+    400022: Bone.008
+    400024: Bone.009
+    400026: Bone.009_end
+    400028: Bone.010
+    400030: Bone.011
+    400032: Bone.012
+    400034: Bone.013
+    400036: Bone.013_end
+    400038: Bone.014
+    400040: Bone.015
+    400042: Bone.016
+    400044: Bone.017
+    400046: Bone.017_end
+    400048: //RootNode
+    400050: Head
+    400052: Helmet
+    400054: Helmet MOd
+    400056: Left Arm
+    400058: Left Hand
+    400060: Left Leg
+    400062: Left Leg001
+    400064: Right Arm
+    400066: Right Hand
+    400068: Torso
+    2100000: 'Material #171.001'
+    2100002: 'Material #172.001'
+    2100004: 'Material #162.001'
+    2100006: 'Material #169.001'
+    2100008: 'Material #163.001'
+    2100010: 'Material #170.001'
+    2100012: 'Material #164.001'
+    2100014: 'Material #168.001'
+    2100016: 'Material #161.001'
+    4300000: Helmet
+    4300002: Head
+    4300004: Helmet MOd
+    4300006: Left Hand
+    4300008: Left Arm
+    4300010: Right Hand
+    4300012: Right Arm
+    4300014: Left Leg001
+    4300016: Left Leg
+    4300018: Torso
+    7400000: Armature.001|Block
+    7400002: Armature.001|Block(Proper)
+    7400004: Armature.001|Head|Take 001|BaseLayer
+    7400006: Armature.001|Head|Take 001|BaseLayer.001
+    7400008: Armature.001|Helmet MOd|Take 001|BaseLayer
+    7400010: Armature.001|Helmet MOd|Take 001|BaseLayer.001
+    7400012: Armature.001|Helmet|Take 001|BaseLayer
+    7400014: Armature.001|Helmet|Take 001|BaseLayer.001
+    7400016: Armature.001|Idle Jimmy
+    7400018: Armature.001|Left Arm|Take 001|BaseLayer
+    7400020: Armature.001|Left Arm|Take 001|BaseLayer.001
+    7400022: Armature.001|Left Hand|Take 001|BaseLayer
+    7400024: Armature.001|Left Hand|Take 001|BaseLayer.001
+    7400026: Armature.001|Left Leg001|Take 001|BaseLayer
+    7400028: Armature.001|Left Leg001|Take 001|BaseLayer.001
+    7400030: Armature.001|Left Leg|Take 001|BaseLayer
+    7400032: Armature.001|Left Leg|Take 001|BaseLayer.001
+    7400034: Armature.001|Revive
+    7400036: Armature.001|Right Arm|Take 001|BaseLayer
+    7400038: Armature.001|Right Arm|Take 001|BaseLayer.001
+    7400040: Armature.001|Right Hand|Take 001|BaseLayer
+    7400042: Armature.001|Right Hand|Take 001|BaseLayer.001
+    7400044: Armature.001|Run
+    7400046: Armature.001|Throw
+    7400048: Armature.001|Throw Jimmy
+    7400050: Armature.001|Torso|Take 001|BaseLayer
+    7400052: Armature.001|Torso|Take 001|BaseLayer.001
+    7400054: Armature.001|Helmet|Take 001|BaseLayer (1)
+    7400056: Armature.001|Run (1)
+    7400058: Armature.001|Idle Jimmy (1)
+    9500000: //RootNode
+    13700000: Head
+    13700002: Helmet
+    13700004: Helmet MOd
+    13700006: Left Arm
+    13700008: Left Hand
+    13700010: Left Leg
+    13700012: Left Leg001
+    13700014: Right Arm
+    13700016: Right Hand
+    13700018: Torso
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: Armature.001/Bone
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.001|Idle Jimmy (1)
+      takeName: Armature.001|Idle Jimmy
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Block(Proper)
+      takeName: Armature.001|Block(Proper)
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Head|Take 001|BaseLayer
+      takeName: Armature.001|Head|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Head|Take 001|BaseLayer.001
+      takeName: Armature.001|Head|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Helmet MOd|Take 001|BaseLayer
+      takeName: Armature.001|Helmet MOd|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Helmet MOd|Take 001|BaseLayer.001
+      takeName: Armature.001|Helmet MOd|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Helmet|Take 001|BaseLayer
+      takeName: Armature.001|Helmet|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Helmet|Take 001|BaseLayer.001
+      takeName: Armature.001|Helmet|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Idle Jimmy
+      takeName: Armature.001|Idle Jimmy
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Arm|Take 001|BaseLayer
+      takeName: Armature.001|Left Arm|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Arm|Take 001|BaseLayer.001
+      takeName: Armature.001|Left Arm|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Hand|Take 001|BaseLayer
+      takeName: Armature.001|Left Hand|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Hand|Take 001|BaseLayer.001
+      takeName: Armature.001|Left Hand|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Leg001|Take 001|BaseLayer
+      takeName: Armature.001|Left Leg001|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Leg001|Take 001|BaseLayer.001
+      takeName: Armature.001|Left Leg001|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Leg|Take 001|BaseLayer
+      takeName: Armature.001|Left Leg|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Left Leg|Take 001|BaseLayer.001
+      takeName: Armature.001|Left Leg|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Revive
+      takeName: Armature.001|Revive
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Right Arm|Take 001|BaseLayer
+      takeName: Armature.001|Right Arm|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Right Arm|Take 001|BaseLayer.001
+      takeName: Armature.001|Right Arm|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Right Hand|Take 001|BaseLayer
+      takeName: Armature.001|Right Hand|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Right Hand|Take 001|BaseLayer.001
+      takeName: Armature.001|Right Hand|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Run
+      takeName: Armature.001|Run
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Throw
+      takeName: Armature.001|Throw
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Throw Jimmy
+      takeName: Armature.001|Throw Jimmy
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Torso|Take 001|BaseLayer
+      takeName: Armature.001|Torso|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Torso|Take 001|BaseLayer.001
+      takeName: Armature.001|Torso|Take 001|BaseLayer.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.29999998
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Character(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature.001
+      parentName: Character(Clone)
+      position: {x: 1.3597832, y: 128.61029, z: 20.929592}
+      rotation: {x: 1.3615681e-14, y: 1, z: -0.00000014106499, w: 0.00000013315805}
+      scale: {x: 1.4327415, y: 1.4327415, z: 1.4327415}
+    - name: Bone
+      parentName: Armature.001
+      position: {x: 0.08520722, y: -89.15619, z: 14.625432}
+      rotation: {x: 0.12376481, y: 0.0013918586, z: -0.011523288, w: 0.9922437}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: 0.00000036656854, y: 0.40091777, z: -0.0000028059108}
+      rotation: {x: 0.027103012, y: -0.65502685, z: 0.00012740496, w: 0.7551194}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bone.001_end
+      parentName: Bone.001
+      position: {x: -0, y: 0.37042898, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.010
+      parentName: Bone
+      position: {x: 0.00000036656854, y: 0.40091777, z: -0.0000028059108}
+      rotation: {x: 0.5577328, y: 0.4044321, z: 0.5794553, w: -0.43543133}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: Bone.011
+      parentName: Bone.010
+      position: {x: -0.000002224313, y: 0.11765781, z: -0.0000045686957}
+      rotation: {x: -0.23769522, y: 0.071373016, z: 0.012867061, w: 0.9686286}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone.012
+      parentName: Bone.011
+      position: {x: 0.0000033684073, y: 0.22537789, z: 0.000001823902}
+      rotation: {x: 0.09253795, y: 0.020020584, z: -0.7714486, w: 0.6292082}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone.013
+      parentName: Bone.012
+      position: {x: 0.000004738569, y: 0.2581988, z: 0.0000039875504}
+      rotation: {x: 0.11565409, y: -0.1627201, z: -0.1522443, w: 0.9679711}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Bone.013_end
+      parentName: Bone.013
+      position: {x: -0, y: 0.14035922, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.014
+      parentName: Bone
+      position: {x: 0.00000036656854, y: 0.40091777, z: -0.0000028059108}
+      rotation: {x: -0.5508035, y: 0.4027849, z: 0.6056987, w: 0.40927854}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Bone.015
+      parentName: Bone.014
+      position: {x: 0.000004282943, y: 0.11766187, z: -0.0000044664366}
+      rotation: {x: -0.25974303, y: -0.30165568, z: -0.28735927, w: 0.8711843}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bone.016
+      parentName: Bone.015
+      position: {x: -0.0000029895452, y: 0.21366945, z: -0.0000006705522}
+      rotation: {x: -0.14084649, y: 0.25816208, z: 0.45024058, w: 0.8430884}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.017
+      parentName: Bone.016
+      position: {x: 0.00000083819026, y: 0.24522638, z: 0.0000033617018}
+      rotation: {x: 0.007255835, y: 0.017663715, z: 0.045050155, w: 0.99880224}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Bone.017_end
+      parentName: Bone.017
+      position: {x: -0, y: 0.14041719, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.002
+      parentName: Armature.001
+      position: {x: 0.085207954, y: -89.15619, z: 14.625421}
+      rotation: {x: 0.56816226, y: 0.39489082, z: 0.6270932, w: -0.35778072}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: -0.0000009793511, y: 0.09285385, z: 0.000005672872}
+      rotation: {x: -0.14682761, y: 0.46683547, z: -0.5348136, w: 0.68882567}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Bone.004
+      parentName: Bone.003
+      position: {x: 0.0000005185604, y: 0.3066328, z: 0.00000417307}
+      rotation: {x: 0.8651198, y: 0.029218893, z: 0.066939875, w: -0.49621874}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone.005
+      parentName: Bone.004
+      position: {x: 0.00000020395963, y: 0.24288304, z: 0.000009883381}
+      rotation: {x: 0.28039536, y: -0.17661472, z: -0.02354321, w: 0.94320273}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bone.005_end
+      parentName: Bone.005
+      position: {x: -0, y: 0.14851576, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.006
+      parentName: Armature.001
+      position: {x: 0.08520624, y: -89.1562, z: 14.625404}
+      rotation: {x: -0.60354376, y: 0.35472956, z: 0.62720275, w: 0.34134823}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Bone.007
+      parentName: Bone.006
+      position: {x: -0.00000047049323, y: 0.09655195, z: 0.000004771817}
+      rotation: {x: -0.48809937, y: -0.65552753, z: 0.18716604, w: 0.5449877}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone.008
+      parentName: Bone.007
+      position: {x: -0.00000018656718, y: 0.2953495, z: 0.0000013091965}
+      rotation: {x: -0.15727724, y: 0.025048338, z: -0.01330514, w: 0.98714715}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Bone.009
+      parentName: Bone.008
+      position: {x: -0.000000088289376, y: 0.25374243, z: 0.0000055813516}
+      rotation: {x: 0.70203424, y: -0.12161773, z: -0.042342592, w: 0.7004029}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: Bone.009_end
+      parentName: Bone.009
+      position: {x: -0, y: 0.14061219, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Helmet
+      parentName: Character(Clone)
+      position: {x: 2.3557725, y: 129.40079, z: 19.877825}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.000000108942444, w: 0.000000075497695}
+      scale: {x: 1.4327414, y: 1.4327414, z: 1.4327418}
+    - name: Head
+      parentName: Character(Clone)
+      position: {x: 2.3557725, y: 129.36978, z: 19.914587}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.000000108942444, w: 0.000000075497695}
+      scale: {x: 1.4327414, y: 1.4327414, z: 1.4327418}
+    - name: Helmet MOd
+      parentName: Character(Clone)
+      position: {x: 1.2363607, y: 129.10094, z: 19.172352}
+      rotation: {x: -0.7071068, y: -0.00000016015528, z: -0.0000026952289, w: 0.7071067}
+      scale: {x: 0.020527484, y: 0.020527484, z: 0.020527484}
+    - name: Left Hand
+      parentName: Character(Clone)
+      position: {x: 2.3557725, y: 129.40079, z: 19.877825}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.000000108942444, w: 0.000000075497695}
+      scale: {x: 1.4327414, y: 1.4327414, z: 1.4327418}
+    - name: Left Arm
+      parentName: Character(Clone)
+      position: {x: 2.3557725, y: 129.40079, z: 19.877825}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.000000108942444, w: 0.000000075497695}
+      scale: {x: 1.4327414, y: 1.4327414, z: 1.4327418}
+    - name: Right Hand
+      parentName: Character(Clone)
+      position: {x: 2.3557725, y: 129.40079, z: 19.877825}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.000000108942444, w: 0.000000075497695}
+      scale: {x: 1.4327414, y: 1.4327414, z: 1.4327418}
+    - name: Right Arm
+      parentName: Character(Clone)
+      position: {x: 2.3557725, y: 129.40079, z: 19.877825}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.000000108942444, w: 0.000000075497695}
+      scale: {x: 1.4327414, y: 1.4327414, z: 1.4327418}
+    - name: Left Leg001
+      parentName: Character(Clone)
+      position: {x: 1.3611794, y: 129.04414, z: 20.547276}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.00000019040279, w: 0.00000007549754}
+      scale: {x: 0.03639163, y: 0.03639163, z: 0.036391634}
+    - name: Left Leg
+      parentName: Character(Clone)
+      position: {x: 1.1198949, y: 129.04414, z: 20.547276}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.00000019040279, w: 0.00000007549754}
+      scale: {x: 0.03639163, y: 0.03639163, z: 0.036391634}
+    - name: Torso
+      parentName: Character(Clone)
+      position: {x: 2.3557725, y: 129.40079, z: 19.877825}
+      rotation: {x: 0.0000019073486, y: 1, z: -0.000000108942444, w: 0.000000075497695}
+      scale: {x: 1.4327414, y: 1.4327414, z: 1.4327418}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
